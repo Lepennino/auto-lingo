@@ -1,6 +1,6 @@
 {
     "chromedriver_path": "C:\\Program Files (x86)\\chromedriver.exe",
-
+https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win64/chromedriver-win64.zip
     "antifarm_sleep": 0,
 
     "deviation": 0,
